@@ -1,0 +1,9 @@
+pandoc: '2.5'
+pkgdown: 1.4.1
+pkgdown_sha: ~
+articles:
+  datasets: datasets.html
+urls:
+  reference: http://momx.github.io/Momdata/reference
+  article: http://momx.github.io/Momdata/articles
+
