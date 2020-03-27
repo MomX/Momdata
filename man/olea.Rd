@@ -5,7 +5,7 @@
 \alias{olea}
 \title{Curves coordinates of olive stones}
 \format{
-A \link[Momocs2:coo_tbl]{Momocs2::coo_tbl} with:
+A \code{coo_tbl} with:
 \itemize{
 \item \code{coo} (\code{coo_list}): olive stones, fertile halves, coordinates of two orthogonal views
 \item \code{status} (\code{factor}): domesticated or wild

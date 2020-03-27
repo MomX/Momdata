@@ -5,7 +5,7 @@
 \alias{wings}
 \title{Landmarks coordinates of mosquito wings}
 \format{
-A \link[Momocs2:coo_tbl]{Momocs2::coo_tbl} with:
+A \code{coo_tbl} with:
 \itemize{
 \item \code{coo} (\code{coo_list}):coordinates
 \item \code{group} (\code{factor}): grouping factor

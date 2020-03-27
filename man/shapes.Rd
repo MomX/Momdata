@@ -5,7 +5,7 @@
 \alias{shapes}
 \title{Outlines coordinates of various shapes}
 \format{
-A \link[Momocs2:coo_tbl]{Momocs2::coo_tbl} with:
+A \code{coo_tbl} with:
 \itemize{
 \item \code{coo} (\code{coo_list}): shape coordinates
 }
