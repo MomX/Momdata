@@ -7,7 +7,7 @@ NULL
 #' @docType data
 #' @name shapes
 #' @family outlines
-#' @format A [Momocs2::coo_tbl] with:
+#' @format A `coo_tbl` with:
 #'  * `coo` (`coo_list`): shape coordinates
 #' @source Borrowed default shapes from (c) Adobe Photoshop. Please do not send me to jail.
 #' @examples
@@ -20,7 +20,7 @@ NULL
 #' @docType data
 #' @name olea
 #' @family curves
-#' @format A [Momocs2::coo_tbl] with:
+#' @format A `coo_tbl` with:
 #'  * `coo` (`coo_list`): olive stones, fertile halves, coordinates of two orthogonal views
 #'  * `status` (`factor`): domesticated or wild
 #'  * `accession` (`factor`): variety for domesticated, station for wild
@@ -44,7 +44,7 @@ NULL
 #' @docType data
 #' @name wings
 #' @family landmarks
-#' @format A [Momocs2::coo_tbl] with:
+#' @format A `coo_tbl` with:
 #'  * `coo` (`coo_list`):coordinates
 #'  * `group` (`factor`): grouping factor
 #' @references
