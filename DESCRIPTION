@@ -23,6 +23,9 @@ Suggests:
     covr,
     knitr,
     rmarkdown
+Remotes:  
+    MomX/Momocs2
 Language: en-US
 VignetteBuilder: knitr
-
+Depends: 
+    R (>= 2.10)
