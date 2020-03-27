@@ -1,3 +1,5 @@
 test_that("multiplication works", {
-  expect_equal(2 * 2, 4)
+  expect_is(shapes, "coo_tbl")
+  expect_is(olea, "coo_tbl")
+  expect_is(wings, "coo_tbl")
 })
