@@ -12,7 +12,7 @@ experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](h
 [![Travis build
 status](https://travis-ci.org/MomX/Momdata.svg?branch=master)](https://travis-ci.org/MomX/Momdata)
 [![Codecov test
-coverage](https://codecov.io/gh/MomX/Momdata/branch/master/graph/badge.svg)](https://codecov.io/gh/MomX/Momdata2?branch=master)
+coverage](https://codecov.io/gh/MomX/Momdata/branch/master/graph/badge.svg)](https://codecov.io/gh/MomX/Momdata?branch=master)
 [![CRAN
 status](https://www.r-pkg.org/badges/version/Momdata)](https://CRAN.R-project.org/package=Momdata)
 <!-- badges: end -->
