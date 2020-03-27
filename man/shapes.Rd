@@ -3,15 +3,18 @@
 \docType{data}
 \name{shapes}
 \alias{shapes}
-\title{Outlines: Various shapes}
+\title{Outlines coordinates of various shapes}
 \format{
-A \link[Momocs2:coo_tbl]{Momocs2::coo_tbl} object with outline coordinates of some various shapes.
+A \link[Momocs2:coo_tbl]{Momocs2::coo_tbl} with:
+\itemize{
+\item \code{coo} (\code{coo_list}): shape coordinates
+}
 }
 \source{
 Borrowed default shapes from (c) Adobe Photoshop. Please do not send me to jail.
 }
 \description{
-Outlines: Various shapes
+Outlines coordinates of various shapes
 }
 \examples{
 Momocs2::mosaic(shapes)

@@ -3,18 +3,18 @@
 \docType{data}
 \name{olea}
 \alias{olea}
-\title{Curves: Olive stones}
+\title{Curves coordinates of olive stones}
 \format{
-A \link[Momocs2:coo_tbl]{Momocs2::coo_tbl} object with olive stones fertile half curves coordinates.
+A \link[Momocs2:coo_tbl]{Momocs2::coo_tbl} with:
 \itemize{
-\item \code{coo}: \code{coo_list} olive stones, fertile halves, coordinates of two orthogonal views
-\item \code{status}: \code{factor} domesticated or wild
-\item \code{accession} : \code{factor} variety for domesticated, station for wild
-\item \code{view} : \code{factor} VL (lateral) or VD (dorsal)
+\item \code{coo} (\code{coo_list}): olive stones, fertile halves, coordinates of two orthogonal views
+\item \code{status} (\code{factor}): domesticated or wild
+\item \code{accession} (\code{factor}): variety for domesticated, station for wild
+\item \code{view} (\code{factor}): VL (lateral) or VD (dorsal)
 }
 }
 \description{
-Curves: Olive stones
+Curves coordinates of olive stones
 }
 \section{Thanks to}{
 
