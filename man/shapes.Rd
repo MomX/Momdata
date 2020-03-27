@@ -16,3 +16,4 @@ Outlines: Various shapes
 \examples{
 Momocs2::mosaic(shapes)
 }
+\concept{outlines}
