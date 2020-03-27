@@ -14,6 +14,9 @@ A \link[Momocs2:coo_tbl]{Momocs2::coo_tbl} with:
 \description{
 Landmarks coordinates of mosquito wings
 }
+\examples{
+Momocs2::mosaic(wings)
+}
 \references{
 Rohlf, F. J. and Slice, D. (1990)
 Extensions of the Procrustes method for the optimal superimposition of landmarks.

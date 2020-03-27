@@ -53,5 +53,7 @@ NULL
 #' *Systematic Zoology* **39**:1-40.
 #' [doi:10.2307/2992207](https://doi.org/10.2307/2992207)
 #' @family datasets
+#' @examples
+#' Momocs2::mosaic(wings)
 NULL
 

@@ -22,7 +22,7 @@ MomX.
 
 ## Installation
 
-Once on CRAN, uou can install the released version of Momdata from
+Once on CRAN, you can install the released version of Momdata from
 [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
