@@ -1,3 +1,5 @@
 #' Dummy
 #'
-.hello <- function(){}
+.hello <- function(){
+  cat("hi there !")
+}
